@@ -11,20 +11,20 @@ Soy Guillem Galván, un **desarrollador Fullstack** apasionado por la tecnologí
 
 ### 🛠️ Tecnologías que uso
 
-* **Frontend:** <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TypeScript.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Angular.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VueJS.svg" width="40"/>
-  HTML, CSS, JavaScript, TypeScript, Angular, React, Vue, AJAX
+* **Frontend:**
+  [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,ajax)](https://skillicons.dev)
 
-* **Backend:** <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Dark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Spring.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PHP-Dark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Laravel-Dark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Dark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/GraphQL.svg" width="40"/>
-  Node.js, Express, Spring Boot, PHP, Laravel, Java, GraphQL
+* **Backend:**
+  [![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,php,laravel,java,graphql)](https://skillicons.dev)
 
-* **Bases de datos:** <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MariaDB-Dark.svg" width="40"/>
-  MySQL, MongoDB, MariaDB
+* **Bases de datos:**
+  [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,mariadb)](https://skillicons.dev)
 
-* **Cloud:** <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AWS-Dark.svg" width="40"/>
-  AWS
+* **Cloud:**
+  [![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-* **Herramientas:** <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Docker.svg" width="40"/>
-  Git, GitHub, Docker
+* **Herramientas:**
+  [![Tools](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
 ### 📈 Estadísticas de GitHub
 

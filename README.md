@@ -26,10 +26,7 @@ Soy Guillem Galván, un **desarrollador Fullstack** apasionado por la tecnologí
 * **Herramientas:**
   [![Tools](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
-### 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Guillem](https://github-readme-stats.vercel.app/api?username=GuillemGalvan\&show_icons=true\&theme=github_dark)
-
-### 📊 Lenguajes más usados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemGalvan\&layout=compact\&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuillemGalvan&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub de Guillem" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemGalvan&layout=compact&theme=github_dark" alt="Lenguajes más usados" />
+</p>

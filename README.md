@@ -15,7 +15,7 @@ Soy Guillem Galván, un **desarrollador Fullstack** apasionado por la tecnologí
   [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,ajax)](https://skillicons.dev)
 
 * **Backend:**
-  [![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,php,laravel,java,graphql)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=java,nodejs,express,spring,php,laravel,graphql)](https://skillicons.dev)
 
 * **Bases de datos:**
   [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,mariadb)](https://skillicons.dev)

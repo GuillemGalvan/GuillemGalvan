@@ -10,15 +10,13 @@ Soy Guillem Galván, un **desarrollador Fullstack**
 * 📧 Contáctame en [LinkedIn](https://www.linkedin.com/in/guillem-galvan/) o enviame un correo a guillem.galvan@gmail.com
 
 ### 🛠️ Tecnologías que uso
+[!(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 * **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, React, Vue, AJAX
 * **Backend:** Node.js, Express, Spring Boot, PHP, Laravel, Java, GraphQL
 * **Bases de datos:** MySQL, MongoDB, MariaDB
 * **Cloud:** AWS
 * **Herramientas:** Git, GitHub, Docker
-
-📈 Estadísticas de GitHub
-
 
 
 📊 Lenguajes más usados

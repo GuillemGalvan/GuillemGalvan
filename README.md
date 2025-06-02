@@ -17,5 +17,4 @@ Soy Guillem Galván, un **desarrollador Fullstack**
 * **Cloud:** AWS
 * **Herramientas:** Git, GitHub, Docker
 
-### 📈 Estadísticas de GitHub
 

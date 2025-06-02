@@ -9,7 +9,7 @@ Soy Guillem Galván, un **desarrollador Fullstack**
 * 🌱 Apasionado por la **Inteligencia Artificial y el Machine Learning**, especialmente por su aplicación práctica para resolver problemas reales.
 * 📧 Contáctame en [LinkedIn](https://www.linkedin.com/in/guillem-galvan/) o enviame un correo a guillem.galvan@gmail.com
 
-### [![🛠️ Tecnologias que uso](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### [![🛠️ Tecnologias que uso](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 * **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, React, Vue, AJAX
 * **Backend:** Node.js, Express, Spring Boot, PHP, Laravel, Java, GraphQL

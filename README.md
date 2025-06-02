@@ -1,16 +1,21 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**GuillemGalvan/GuillemGalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Guillem Galván, un **desarrollador Fullstack**
 
-Here are some ideas to get you started:
+### ✨ Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Trabajo con: **HTML, CSS, JavaScript, Java, PHP, Angular, React, Vue, Laravel, NodeJS, ExpressJS, Spring Boot, Python**.
+* ☁️ Experiencia en **AWS Cloud** para desplegar soluciones escalables.
+* 🌱 Apasionado por la **Inteligencia Artificial y el Machine Learning**, especialmente por su aplicación práctica para resolver problemas reales.
+* 📧 Contáctame en [LinkedIn](https://www.linkedin.com/in/guillem-galvan/) o enviame un correo a guillem.galvan@gmail.com
+
+### 🛠️ Tecnologías que uso
+
+* **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, React, Vue, AJAX
+* **Backend:** Node.js, Express, Spring Boot, PHP, Laravel, Java, GraphQL
+* **Bases de datos:** MySQL, MongoDB, MariaDB
+* **Cloud:** AWS
+* **Herramientas:** Git, GitHub, Docker
+
+### 📈 Estadísticas de GitHub
+

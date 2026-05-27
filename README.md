@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Soy Guillem Galván, un **desarrollador Fullstack** y **Ingeniero de IA* apasionado por la tecnología y la innovación.
+Soy Guillem Galván, un **desarrollador Fullstack** y **Ingeniero de IA** apasionado por la tecnología y la innovación.
 
 ### ✨ Sobre mí
 
